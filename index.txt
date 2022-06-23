@@ -65,11 +65,8 @@
     "aspectMode": "cover",
     "action": {
       "type": "uri",
-      "uri": "https://lin.ee/DysGMfJ"
-    },
-    "gravity": "center",
-    "position": "relative",
-    "animated": true
+      "uri": "https://www.ubett88.co/?up=agzd07"
+    }
   },
   "body": {
     "type": "box",
@@ -77,17 +74,12 @@
     "contents": [
       {
         "type": "text",
-        "text": "💲   กดรับได้เลย 100 บาท  💲",
+        "text": "รับเงินทำทุนฟรี 88 บาท",
         "weight": "bold",
         "size": "xl",
-        "color": "#FF9900",
+        "margin": "none",
         "align": "center",
-        "gravity": "center",
-        "action": {
-          "type": "uri",
-          "label": "action",
-          "uri": "https://lin.ee/DysGMfJ"
-        }
+        "color": "#6600FF"
       },
       {
         "type": "box",
@@ -136,29 +128,17 @@
         "spacing": "sm",
         "contents": [
           {
-            "type": "text",
-            "text": "แจกฟรีทุกคน ไม่ต้องลุ้น",
-            "color": "#FF6666"
-          },
-          {
             "type": "box",
             "layout": "baseline",
             "spacing": "sm",
             "contents": [
               {
                 "type": "text",
-                "text": "พิเศษ ✔",
-                "color": "#aaaaaa",
-                "size": "sm",
-                "flex": 1
-              },
-              {
-                "type": "text",
-                "text": "1 สิทธิ์ ต่อ 1ท่าน",
+                "text": "🏀 สมัครฟรี เล่นได้ทุกค่ายเกมส์",
                 "wrap": true,
+                "color": "#FF8C00",
                 "size": "sm",
-                "flex": 5,
-                "color": "#FFFFCC"
+                "align": "start"
               }
             ]
           },
@@ -169,25 +149,17 @@
             "contents": [
               {
                 "type": "text",
-                "text": "ให้ฟรี ✔",
-                "color": "#aaaaaa",
-                "size": "sm",
-                "flex": 1
-              },
-              {
-                "type": "text",
-                "text": "เล่นคาสิโนได้ แทงบอลได้",
+                "text": "🏀รับได้ 1 ท่านต่อ 1 สิทธิ์ เท่านั้น",
                 "wrap": true,
-                "color": "#FFFFCC",
+                "color": "#FF8C00",
                 "size": "sm",
-                "flex": 5
+                "align": "start"
               }
             ]
           }
         ]
       }
-    ],
-    "backgroundColor": "#000033"
+    ]
   },
   "footer": {
     "type": "box",
@@ -200,11 +172,8 @@
         "height": "sm",
         "action": {
           "type": "uri",
-          "label": "สมัครรับเครดิตฟรี",
-          "uri": "https://lin.ee/DysGMfJ",
-          "altUri": {
-            "desktop": "https://lin.ee/DysGMfJ"
-          }
+          "label": "สมัครสมาชิก",
+          "uri": "https://www.ubett88.co/?up=agzd07"
         }
       },
       {
@@ -213,24 +182,20 @@
         "height": "sm",
         "action": {
           "type": "uri",
-          "label": "สอบถามเพิ่มเติม",
-          "uri": "https://lin.ee/DysGMfJ",
-          "altUri": {
-            "desktop": "https://lin.ee/DysGMfJ"
-          }
+          "label": "ติดต่อสอบถาม",
+          "uri": "https://lin.ee/DysGMfJ"
         }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
       }
     ],
-    "flex": 0,
-    "backgroundColor": "#000033"
-  },
-  "styles": {
-    "hero": {
-      "backgroundColor": "#F8F8FF",
-      "separatorColor": "#F8F8FF",
-      "separator": true
-    }
+    "flex": 0
   }
+}
 }
       }])
       if (result) {
